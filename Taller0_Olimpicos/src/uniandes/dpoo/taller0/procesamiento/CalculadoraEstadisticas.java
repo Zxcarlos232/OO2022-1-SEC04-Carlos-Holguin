@@ -14,7 +14,9 @@ import uniandes.dpoo.taller0.modelo.Genero;
 import uniandes.dpoo.taller0.modelo.Pais;
 
 /**
+ * 
  * C:\Users\Asus ROG Zephyrus\OneDrive\Escritorio\Taller0\data\atletas.csv
+ * C:\Users\Asus ROG Zephyrus\OneDrive\Escritorio\atletas.csv
  * 
  * Esta es la clase que es capaz de calcular estadísticas sobre los juegos
  * olímpicos. Para calcular las estadísticas, esta clase agrupa la información
@@ -70,11 +72,11 @@ public class CalculadoraEstadisticas
 	// ************************************************************************
 
 	/**
+	 * Busca cual es el pais de un  atleta
 	 * 
 	 * 
-	 * 
-	 * @param anio
-	 * @return
+	 * @param Nombre del atleta de interes
+	 * @return Pais del atleta de interes
 	 */
 	
 	public String PaisDeAtleta(String NombreAtleta)
