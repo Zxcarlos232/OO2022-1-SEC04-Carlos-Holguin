@@ -124,7 +124,12 @@ public class ConsolaOlimpicos
 		System.out.println("\n" + "Pais de origen del atleta" + "\n");
         String NombreAtleta = input("Por favor ingrese el nombre del atleta");
         String NombrePaiss = calculadora.PaisDeAtleta(NombreAtleta);
+        if (NombrePaiss == null) {
+        	System.out.println("Por favor verifique el nombre del atleta, ya que, no se encontro registo del atleta" );
+        }
+        else {
         System.out.println("El pais del atleta " + NombreAtleta + " es: "+ NombrePaiss );
+        }
 	}	
 	private void ejecutarPorcentajeMedallistas()
 	{

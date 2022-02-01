@@ -17,6 +17,8 @@ import uniandes.dpoo.taller0.modelo.Pais;
  * 
  * C:\Users\Asus ROG Zephyrus\OneDrive\Escritorio\Taller0\data\atletas.csv
  * C:\Users\Asus ROG Zephyrus\OneDrive\Escritorio\atletas.csv
+ * C:\Users\Asus ROG Zephyrus\OneDrive - Universidad de los Andes\Quinto semestre\Programacion orientada a objetos\OO2022-1-SEC04-Carlos-Holguin-master\OO2022-1-SEC04-Carlos-Holguin-master\data\atletas.csv
+ * 
  * 
  * Esta es la clase que es capaz de calcular estadísticas sobre los juegos
  * olímpicos. Para calcular las estadísticas, esta clase agrupa la información
